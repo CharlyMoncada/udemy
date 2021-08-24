@@ -1,0 +1,15 @@
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\PErsistence.deps.json
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\PErsistence.dll
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\ref\PErsistence.dll
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\PErsistence.pdb
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\Domain.dll
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.csprojAssemblyReference.cache
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.AssemblyInfoInputs.cache
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.AssemblyInfo.cs
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.csproj.CoreCompileInputs.cache
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.csproj.CopyComplete
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.dll
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\ref\PErsistence.dll
+C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\PErsistence\obj\Debug\net5.0\PErsistence.pdb
