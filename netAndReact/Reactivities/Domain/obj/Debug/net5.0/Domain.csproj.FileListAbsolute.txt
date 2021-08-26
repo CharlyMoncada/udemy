@@ -10,3 +10,15 @@ C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\Domain\obj\Debug\
 C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\cmoncada\Documents\Codes\Udemy\Net+React\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Monca\Documents\Codes\udemy\netAndReact\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb

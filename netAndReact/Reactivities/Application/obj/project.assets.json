@@ -971,19 +971,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cmoncada\\.nuget\\packages\\": {}
+    "C:\\Users\\Monca\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmoncada\\Documents\\Codes\\Udemy\\Net+React\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Monca\\Documents\\Codes\\udemy\\netAndReact\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\cmoncada\\Documents\\Codes\\Udemy\\Net+React\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\cmoncada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmoncada\\Documents\\Codes\\Udemy\\Net+React\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Monca\\Documents\\Codes\\udemy\\netAndReact\\Reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Monca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Monca\\Documents\\Codes\\udemy\\netAndReact\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cmoncada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Monca\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -991,16 +995,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\cmoncada\\Documents\\Codes\\sg_recurring_billing\\SG.Membership.Commons\\SG.Membership.PaymentProcessor\\bin\\Debug": {},
-        "https://pkgs.dev.azure.com/SG-Membership/_packaging/CommonsFeed/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/SWATDevOps/Swat-TeetimeAggregator/_packaging/TangoNuget/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\cmoncada\\Documents\\Codes\\Udemy\\Net+React\\Reactivities\\PErsistence\\PErsistence.csproj": {
-              "projectPath": "C:\\Users\\cmoncada\\Documents\\Codes\\Udemy\\Net+React\\Reactivities\\PErsistence\\PErsistence.csproj"
+            "C:\\Users\\Monca\\Documents\\Codes\\udemy\\netAndReact\\Reactivities\\PErsistence\\PErsistence.csproj": {
+              "projectPath": "C:\\Users\\Monca\\Documents\\Codes\\udemy\\netAndReact\\Reactivities\\PErsistence\\PErsistence.csproj"
             }
           }
         }
@@ -1029,7 +1031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

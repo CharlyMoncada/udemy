@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\cmoncada\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cmoncada\\.nuget\\packages"
+      "C:\\Users\\Monca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Monca\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }
